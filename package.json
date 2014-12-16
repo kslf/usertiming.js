@@ -1,7 +1,7 @@
 {
     "name": "usertiming",
     "description": "W3C UserTiming polyfill",
-    "main": "./src/usertiming",
+    "main": "usertiming",
     "author": "Nic Jansma",
     "version": "0.1.4",
     "repository" : {
